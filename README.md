@@ -1,5 +1,10 @@
 # Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
 
+## Author : Saumya Kumari
+## Roll no: 102303161
+
+---
+
 ## Objective
 
 The objective of this assignment is to learn the parameters of a probability density function (PDF) after applying a roll number based non-linear transformation on real world air quality data.
@@ -105,8 +110,3 @@ This assignment demonstrates:
 
 The transformed NO₂ data follows a Gaussian-like distribution, and the estimated parameters accurately model the probability density function.
 
-This study strengthens understanding of:
-- Probability density functions
-- Parameter estimation
-- Gaussian distributions
-- Statistical modeling techniques
