@@ -32,7 +32,7 @@ Feature Used:
 
 ---
 
-## 🔢 Roll Number Based Transformation
+## Roll Number Based Transformation
 
 Roll Number: **102303161**
 
@@ -79,7 +79,7 @@ z = x + 0.10 sin(0.6x)
 
 ---
 
-## 📈 Results
+## Results
 
 Estimated Parameters:
 
